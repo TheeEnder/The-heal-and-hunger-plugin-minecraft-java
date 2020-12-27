@@ -23,34 +23,7 @@ public class Main extends JavaPlugin  {
 		}
 	 
 	
-	/*public boolean onCommand(CommandSender sender, Command cmd, String label, String[] args) {
-		
-		Player player = (Player) sender;
-		
-		if (cmd.getName().equals("confing")) {
-			String Word = this.getConfig().getString("Word");
-			int Number = this.getConfig().getInt("Number");
-			
-			player.sendMessage(ChatColor.GRAY + "The word is" + ChatColor.GREEN + Word + ChatColor.GRAY + "and the number is" + Number);
-			
-		}
-		
-		return false;
-	}*/
-		
-	/*
 	
-	
-	@EventHandler
-	public void onMove(PlayerMoveEvent e) {
-		
-		Player player = e.getPlayer();
-		
-		if (!player.hasPermission("testplugin.move")) {
-			e.setCancelled(true);
-		}
-	}  */
-
 	
 	
 
