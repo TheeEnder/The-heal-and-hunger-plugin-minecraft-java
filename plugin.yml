@@ -1,0 +1,15 @@
+version: 1.0
+name: FirstPlugin
+main: com.yehia.plugin.Main
+author: Yehia
+description: First plugin me n o nub
+commands: 
+  hello:
+    aliases: [hi]
+    decription: none of your business
+  hunger:
+    aliases: [hunger]
+    decription: none of your business  
+  level:
+    aliases: [level]
+    decription: 12345uijnfyk   
